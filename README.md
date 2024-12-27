@@ -42,7 +42,7 @@
     python app.py
     ```
 
-6. Insert in the console the name of the place you want to get the reviews from.
+6. Type in the console the name of the place you want to get the reviews from.
 ## Technologies Used
 
 
