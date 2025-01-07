@@ -6,10 +6,10 @@
 
 
 ## Example CSV
-![MapsReviewSentiment](Images/Image%201.jpg)
+![MapsReviewSentiment](Images/Image%201.jpeg)
 
 ## Example Graph
-![MapsReviewSentiment](Images/Image%202.jpg)
+![MapsReviewSentiment](Images/Image%202.jpeg)
 
 ## Getting An API Key
 
