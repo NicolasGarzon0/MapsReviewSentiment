@@ -1,7 +1,7 @@
 
 # MapsReviewSentiment: Analyzing and Visualizing Google Maps Reviews Sentiment
 
-**MapsReviewSentiment** is a Python-based console application that extracts Google Maps reviews using the SerpAPI API and updates the review dataset daily. Each week, the app generates a CSV file containing the review date, rating, text, and sentiment score, along with a PNG line graph showing sentiment scores over time. Sentiment analysis is performed using the VADER model.
+**MapsReviewSentiment** is a Python-based console application that extracts Google Maps reviews using the SerpAPI API and updates the review dataset daily. Each week, the app generates a CSV file containing the review date, rating, text, and sentiment score, along with a line graph showing sentiment scores over time. Sentiment analysis is performed using the VADER model.
 
 
 
